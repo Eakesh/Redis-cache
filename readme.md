@@ -1,7 +1,5 @@
 # Redis Cache
 
----
-
 - Redis stands for "Remote Dictionary Server," and it is a key-value store that is designed for fast read and write operations.
 
 - Redis is like a quick-access memory storage that helps your computer or application work faster by keeping important information close at hand, making everything run more smoothly.
